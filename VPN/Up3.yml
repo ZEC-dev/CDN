@@ -1,0 +1,42 @@
+files:
+  - url: ""
+    time: 1753753451783.yml
+    name: config.yaml
+    selected: []
+  - time: 1753753472406.yml
+    name: CherryLink
+    url: https://cherry01.azureedge.net/sub?target=clash&filename=CherryLink&url=https://cherryvpn.net/link/B1Xl7N9p5G94ELaq?sub=2
+    selected:
+      - name: GLOBAL
+        now: DIRECT
+      - name: 🚀 节点选择
+        now: 🇯🇵 日本02-中继
+      - name: 🌍 国外媒体
+        now: 🚀 节点选择
+      - name: 🤖️ chatGPT
+        now: 🇨🇳 台湾01-中继
+      - name: 🎵 抖音
+        now: 🎯 全球直连
+      - name: 📲 电报信息
+        now: 🚀 节点选择
+      - name: Ⓜ️ 微软服务
+        now: 🎯 全球直连
+      - name: 🍎 苹果服务
+        now: 🚀 节点选择
+      - name: 📢 谷歌FCM
+        now: 🎯 全球直连
+      - name: 🎯 全球直连
+        now: DIRECT
+      - name: 🍃 应用净化
+        now: 🚀 节点选择
+      - name: 🐟 漏网之鱼
+        now: 🚀 节点选择
+    interval: 24
+    subInfo:
+      upload: 12119859
+      download: 146510585
+      total: 214748364800
+      expire: 1778661778
+    homeWeb: ""
+    mode: rule
+index: 1

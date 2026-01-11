@@ -1,0 +1,8 @@
+- name: Github
+  accounts:
+    - name: ZEC-dev
+      token: UUHHIT7BNQJB4ZJS
+      prefix: ""
+      length: 6
+      algorithm: sha1
+      timePeriod: 30
